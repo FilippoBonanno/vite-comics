@@ -32,16 +32,12 @@ export default {
 </script>
 
 <template>
-  <div>header</div>
+  <AppHeader />
   
 
-  <main>
-    main
-    
-  
-  </main>
+  <AppMain />
 
-  <div>footer</div>
+  <AppFooter />
       
 </template>
 

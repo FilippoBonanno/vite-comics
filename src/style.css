@@ -13,3 +13,17 @@ body {
 main {
   padding: 1rem;
 }
+
+header {
+  background-color: white;
+}
+.headerContainer {
+  
+  height: 6rem;
+  
+ 
+}
+
+.mainContainer {
+  height: 5rem;
+}
